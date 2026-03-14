@@ -4,7 +4,7 @@
 * carné 202200137
 * Redes de Computadoras 1  
 * Cesar Sazo
-* Fecha: 27 de febrero 2026
+* Fecha: 28 de febrero 2026
 
 # Introducción
 El objetivo de esta práctica es implementar y analizar el protocolo **Spanning Tree Protocol (STP)** en una red con enlaces redundantes. Se demostrará cómo STP previene bucles de capa 2, cómo se elige el switch raíz, y se comparará el rendimiento entre **PVST** (por defecto) y **Rapid PVST**.
